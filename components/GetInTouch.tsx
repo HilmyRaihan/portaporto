@@ -14,7 +14,7 @@ export default function GetInTouch() {
         
        {/* Tombol Email */}
 <a 
-  href="mailto:hilmyraihan2312v2@gmail.com" 
+  href="mailto:hilmyraihan2312@gmail.com" 
   className="bg-zinc-900 text-white p-6 rounded-[2rem] flex items-center justify-between hover:scale-[1.02] transition-all group min-w-0" // Tambahkan min-w-0
 >
   <div className="flex items-center gap-4 overflow-hidden"> {/* Tambahkan overflow-hidden */}
