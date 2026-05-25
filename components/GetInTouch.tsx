@@ -25,7 +25,7 @@ export default function GetInTouch() {
       <p className="text-[10px] uppercase opacity-50 font-bold">Email</p>
       {/* Gunakan truncate agar teks yang kepanjangan jadi ... */}
       <p className="text-sm font-medium truncate">
-        hilmyraihan2312v2@gmail.com
+        hilmyraihan2312@gmail.com
       </p>
     </div>
   </div>
