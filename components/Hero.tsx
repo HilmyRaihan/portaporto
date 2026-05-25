@@ -23,13 +23,13 @@ export default function Hero() {
     {/* Hashtags Section */}
     <div className="space-y-2 mt-10">
       <div className="flex gap-2 text-sm font-medium text-white/90 drop-shadow-md">
-        <span>#Branding</span> <span>#Logo</span>
+        <span>#Branding</span> <span>#UI/UX</span>
       </div>
       <div className="flex gap-2 text-sm font-medium text-white/90 drop-shadow-md">
-        <span>#Social_Media</span> <span>#Poster</span>
+        <span>#Social_Media</span> <span>#Frontend</span>
       </div>
       <div className="text-sm font-medium text-white/70 drop-shadow-md">
-        #Packaging #Illustration
+        #Illustration
       </div>
     </div>
   </div>

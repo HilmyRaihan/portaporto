@@ -34,7 +34,7 @@ export default function GetInTouch() {
 
         {/* Tombol LinkedIn */}
         <a 
-          href="https://linkedin.com/in/yourusername" 
+          href="https://www.linkedin.com/in/hilmyraihan2323?utm_source=share_via&utm_content=profile&utm_medium=member_android" 
           target="_blank" 
           rel="noopener noreferrer"
           className="bg-[#0077b5] text-white p-6 rounded-[2rem] flex items-center justify-between hover:scale-[1.02] transition-all group"
@@ -45,7 +45,7 @@ export default function GetInTouch() {
             </div>
             <div>
               <p className="text-[10px] uppercase opacity-50 font-bold">LinkedIn</p>
-              <p className="text-sm font-medium">Belom ada</p>
+              <p className="text-sm font-medium">Hilmy Raihan Alhifari</p>
             </div>
           </div>
           <div className="text-xs opacity-30 italic">View ↗</div>

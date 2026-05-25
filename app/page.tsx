@@ -74,7 +74,7 @@ export default function Home() {
           className="flex justify-between items-center mb-8 md:mb-12 px-2 sticky top-4 z-50 pointer-events-none"
         >
           <div className="font-bold hidden lg:block text-base italic tracking-tighter text-slate-800">
-            Hilmy Raihan
+            Hilmy Raihan Alhifari
           </div>
 
           <div className="flex mx-auto lg:mx-0 gap-1 bg-white/70 backdrop-blur-md p-1 rounded-full shadow-sm border border-white/40 pointer-events-auto">
@@ -121,8 +121,8 @@ export default function Home() {
                 Hello, I'm Hilmy
               </h2>
               <p className="text-gray-500 text-xs md:text-sm leading-relaxed font-medium">
-                A Roamer player who can design UI/UX at the same time. 
-                Focusing on <span className="text-blue-600">vision</span>, utility, and clean interfaces.
+                 A Junior Frontend Developer and UI/UX Designer who bridges the gap between design and code. 
+                 Focusing on <span className="text-blue-600">clean interfaces</span>, modern web development, and efficient administrative workflow using Microsoft Office.
               </p>
             </motion.div>
 
